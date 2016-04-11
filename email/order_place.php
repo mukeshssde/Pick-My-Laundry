@@ -1,6 +1,6 @@
 <?php
 
-$message_confirmation = "<html><head><style type='text/css'></style></head><body style='
+$message_confirmation = "<head><style type='text/css'></style></head><body style='
     margin: 0 auto;
     margin-top: 20px;
 '>
